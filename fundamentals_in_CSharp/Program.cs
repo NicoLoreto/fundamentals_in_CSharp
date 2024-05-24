@@ -1,14 +1,12 @@
 ﻿
 using fundamentals_in_CSharp.Models;
-using System.Runtime.CompilerServices;
 using System.Text.Json;
-using System.Text.Json.Serialization;
 
 namespace fundamentals_inCSharp
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             /*
             {
@@ -56,9 +54,11 @@ namespace fundamentals_inCSharp
         File.WriteAllText("objeto.txt", miJson);
 
             // Cargar el archivo y obtener objeto.
-            string json = File.ReadAllText("objeto.txt");
+            string json = File.ReadAllText("Tracking-hours.txt");
 
             Cerveza cerveza = JsonSerializer.Deserialize<Cerveza>(json);
+
+            Console.WriteLine(json);
 
         }
     }
