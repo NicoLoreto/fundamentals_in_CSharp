@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Delegates-Functions-Actions/1.0.0": {
+        "runtime": {
+          "Delegates-Functions-Actions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegates-Functions-Actions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

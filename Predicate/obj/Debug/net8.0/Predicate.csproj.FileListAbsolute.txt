@@ -1,0 +1,15 @@
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\bin\Debug\net8.0\Predicate.exe
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\bin\Debug\net8.0\Predicate.deps.json
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\bin\Debug\net8.0\Predicate.runtimeconfig.json
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\bin\Debug\net8.0\Predicate.dll
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\bin\Debug\net8.0\Predicate.pdb
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\obj\Debug\net8.0\Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\obj\Debug\net8.0\Predicate.AssemblyInfoInputs.cache
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\obj\Debug\net8.0\Predicate.AssemblyInfo.cs
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\obj\Debug\net8.0\Predicate.csproj.CoreCompileInputs.cache
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\obj\Debug\net8.0\Predicate.sourcelink.json
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\obj\Debug\net8.0\Predicate.dll
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\obj\Debug\net8.0\refint\Predicate.dll
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\obj\Debug\net8.0\Predicate.pdb
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\obj\Debug\net8.0\Predicate.genruntimeconfig.cache
+C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Predicate\obj\Debug\net8.0\ref\Predicate.dll
