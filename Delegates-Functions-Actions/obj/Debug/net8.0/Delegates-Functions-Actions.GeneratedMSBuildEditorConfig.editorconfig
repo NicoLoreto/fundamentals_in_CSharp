@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Delegates_Functions_Actions
-build_property.ProjectDir = C:\Users\NicolasLoreto\repositories\fundamentals_in_CSharp\fundamentals_in_CSharp\Delegates-Functions-Actions\
+build_property.ProjectDir = C:\Users\nicol\OneDrive\Escritorio\dev\github\fundamentals_in_CSharp\Delegates-Functions-Actions\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
